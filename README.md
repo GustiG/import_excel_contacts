@@ -1,5 +1,5 @@
 # import_excel_contacts
-A small script to import your excel contact list to WhatsApp
+A small script to add your excel contact list to WhatsApp
 By converting excel formats like .csv to vCard format like .vcf
 
 Step 1: run the script in your python environment
@@ -15,3 +15,5 @@ column B = 'Prenume' here you will have rows for the first name
 column C = 'Nume' on this column you will have the last name of your contacts
 
 All of these can be changed. Columns can be added or removed as needed. Rules can also be set.
+
+After you have the .vcf file, save it on your phone and import it to WhatsApp.
